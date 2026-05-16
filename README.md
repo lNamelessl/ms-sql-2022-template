@@ -1,0 +1,1 @@
+# ms-sql-2022-template
